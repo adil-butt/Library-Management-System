@@ -5,7 +5,7 @@
     include("../include/navbar.php");
     include("../config/action.php");
 
-    $result = showAll($obj, "*", "Accounts", "");
+    $result = showAll($obj, "*", "accounts", "");
 ?>
 
 <!-- Begin Page Content -->
